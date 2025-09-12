@@ -40,7 +40,7 @@ The goal is to uncover actionable insights and provide recommendations to improv
 
 ## 📂 Repository Contents  
 - **docs/**  
-  - [Sample Superstore Case Study (PDF)](./docs/Sample%20Superstore%20Case%20Study.pdf)  
+  - [Sample Superstore Case Study (PDF)](./docs/Sample Superstore Sales & Profit Analysis Project.pdf)  
 - **dashboards/**  
   - [Tableau Workbook (.twbx)](./dashboards/Sample_Superstore_Workbook.twbx)  
 - **data/**  
