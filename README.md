@@ -1,13 +1,13 @@
 # 📊 Sample Superstore Sales & Profit Analysis Project  
 
-This project analyzes sales and profit performance across product categories, sub-categories, shipping modes, and geographic regions using **Tableau**.  
+This project analyzes sales and profit performance across product categories and sub-categories, shipping modes, and geographic regions using **Google sheets** for cleaning, validation and standardization of the dataset and then **Tableau** for visualization of the dataset.  
 The goal is to uncover actionable insights and provide recommendations to improve profitability and business performance.  
 
 ---
 
 ## 🔑 Key Insights  
 1. **Phones are the strongest revenue and profit driver**  
-   - Generated the highest sales (over $300,000) and contributed significantly to profitability, making them a core product line for growth.  
+   - Generated the highest sales (over $300,000) and contributed significantly to profitability.  
 
 2. **Tables generate strong sales but incur losses**  
    - Despite ranking among the top-selling sub-categories, Tables recorded a net loss of nearly $20,000, highlighting pricing inefficiencies or cost pressures.  
@@ -39,16 +39,28 @@ The goal is to uncover actionable insights and provide recommendations to improv
 ---
 
 ## 📂 Repository Contents  
-- **Sample Superstore Case Study.pdf** → Full professional case study write-up  
-- *(Optional)* **Sample Superstore Dashboard.twbx** → Tableau workbook for interactive analysis  
-- *(Optional)* **Dashboard Screenshots/** → Visuals exported from Tableau dashboards  
+- **docs/**  
+  - [Sample Superstore Case Study (PDF)](./docs/Sample%20Superstore%20Case%20Study.pdf)  
+- **dashboards/**  
+  - [Tableau Workbook (.twbx)](./dashboards/Sample_Superstore_Workbook.twbx)  
+- **data/**  
+  - [Cleaned Dataset (Excel)](./data/Sample_Superstore_Cleaned.xlsx)  
+  - [Raw Dataset (Excel)](./data/Sample_Superstore_Raw.xlsx)  
+- **images/**  
+  - Dashboard preview screenshots (see below)  
 
 ---
 
-## 🚀 How to View  
-- Open the [Case Study PDF](./Sample%20Superstore%20Case%20Study.pdf) directly on GitHub.  
-- Download the Tableau workbook to explore dashboards locally.  
-- (If hosted) [View Interactive Dashboard on Tableau Public](#)  
+## 📸 Dashboard Previews  
+
+### Sales & Profit Overview  
+![Sales & Profit Overview](./images/sales_profit_overview.png)  
+
+### Shipping & Discount Analysis  
+![Shipping & Discount Analysis](./images/shipping_discount_analysis.png)  
+
+### State & City Performance  
+![State & City Performance](./images/state_city_performance.png)  
 
 ---
 
@@ -62,8 +74,8 @@ The goal is to uncover actionable insights and provide recommendations to improv
 ## 👤 Author  
 **Kelvin Chukwuneke**  
 - 📧 Email: *kahjoc@gmail.com*  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kelvin-chukwunene-71047b269)  
-- 🌐 Portfolio: *your-portfolio-link*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kelvin-chukwuneke-71047b269)  
+- 🐙 [GitHub Profile](https://github.com/kelvin chukwuneke)  
 
 ---
 ⭐ If you found this project interesting, consider giving it a star on GitHub!
