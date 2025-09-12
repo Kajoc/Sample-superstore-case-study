@@ -1,6 +1,6 @@
 # 📊 Sample Superstore Sales & Profit Analysis Project  
 
-This project analyzes sales and profit performance across product categories and sub-categories, shipping modes, and geographic regions using **Google sheets** for cleaning, validation and standardization of the dataset and then **Tableau** for visualization of the dataset.  
+This project analyzes sales and profit performance across product categories and sub-categories, shipping modes, and geographic regions using **Google sheets** for cleaning, validation and standardization of the dataset and then **Tableau** for vizualization.  
 The goal is to uncover actionable insights and provide recommendations to improve profitability and business performance.  
 
 ---
@@ -40,12 +40,12 @@ The goal is to uncover actionable insights and provide recommendations to improv
 
 ## 📂 Repository Contents  
 - **docs/**  
-  - [Sample Superstore Case Study (PDF)](./docs/Sample%20Superstore%20Case%20Study.pdf)    
+  - [Sample Superstore Sales & Profit Analysis Project (PDF)](./docs/Sample_Superstore_Sales_Profit_Analysis_Project.pdf)  
 - **dashboards/**  
-  - [Tableau Workbook (.twbx)](./dashboards/Sample_Superstore_Workbook.twbx)  
+  - [Sample Superstore Workbook (TWBX)](./dashboards/Sample_Superstore_Workbook.twbx)  
 - **data/**  
-  - [Cleaned Dataset (Excel)](./data/Sample_Superstore_Cleaned.xlsx)  
-  - [Raw Dataset (Excel)](./data/Sample_Superstore_Raw.xlsx)  
+  - [Sample Superstore Cleaned (XLSX)](./data/Sample_Superstore_Cleaned.xlsx)  
+  - [Sample Superstore Raw (XLSX)](./data/Sample_Superstore_Raw.xlsx)  
 - **images/**  
   - Dashboard preview screenshots (see below)  
 
@@ -74,8 +74,8 @@ The goal is to uncover actionable insights and provide recommendations to improv
 ## 👤 Author  
 **Kelvin Chukwuneke**  
 - 📧 Email: *kahjoc@gmail.com*  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kelvin-chukwuneke-71047b269)  
-- 🐙 [GitHub Profile](https://github.com/kelvin chukwuneke)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 🐙 [GitHub Profile](https://github.com/yourusername)  
 
 ---
 ⭐ If you found this project interesting, consider giving it a star on GitHub!
