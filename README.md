@@ -63,7 +63,11 @@ The goal is to uncover actionable insights and provide recommendations to improv
 ![State & City Performance](./images/state_city_performance.png)  
 
 ---
+## 🌐 Interactive Dashboard  
+You can explore the full interactive Tableau workbook (all 3 dashboards) here:  
+👉 [View on Tableau Public](https://public.tableau.com/views/SampleSuperstoreSalesProfitAnalysisProject/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
+---
 ## 📈 Next Steps (Planned Enhancements)  
 - Incorporate **time-series data** for trend analysis.  
 - Extend dashboards to include **customer-level metrics**.  
