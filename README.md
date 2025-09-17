@@ -78,7 +78,7 @@ You can explore the full interactive Tableau workbook (all worksheets and all 3 
 ## 👤 Author  
 **Kelvin Chukwuneke**  
 - 📧 Email: *kahjoc@gmail.com*  
-- 🔗 [LinkedIn](www.linkedin.com/in/kelvin-chukwuneke-71047b269)  
+- 🔗 [LinkedIn](http://linkedin.com/in/kelvin-chukwuneke-71047b269)  
 - 🐙 [GitHub Profile](https://github.com/kajoc)  
 
 ---
