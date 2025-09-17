@@ -64,7 +64,7 @@ The goal is to uncover actionable insights and provide recommendations to improv
 
 ---
 ## 🌐 Interactive Dashboard  
-You can explore the full interactive Tableau workbook (all 3 dashboards) here:  
+You can explore the full interactive Tableau workbook (all worksheets and all 3 dashboards) here:  
 👉 [View on Tableau Public](https://public.tableau.com/views/SampleSuperstoreSalesProfitAnalysisProject/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ---
