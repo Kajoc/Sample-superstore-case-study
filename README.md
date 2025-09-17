@@ -78,8 +78,8 @@ You can explore the full interactive Tableau workbook (all worksheets and all 3 
 ## 👤 Author  
 **Kelvin Chukwuneke**  
 - 📧 Email: *kahjoc@gmail.com*  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 🐙 [GitHub Profile](https://github.com/yourusername)  
+- 🔗 [LinkedIn](www.linkedin.com/in/kelvin-chukwuneke-71047b269)  
+- 🐙 [GitHub Profile](https://github.com/kajoc)  
 
 ---
 ⭐ If you found this project interesting, consider giving it a star on GitHub!
